@@ -1,0 +1,15 @@
+{
+  "name": "ip_array_click",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "solution": "node index.js",
+    "test": "jest"
+  },
+  "author": "karan sachdeva",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
